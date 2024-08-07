@@ -17,7 +17,9 @@ This project is a simple mobile application developed with React Native and Type
 
 ## Screenshots
 
+<div style='display: flex; gap:4px'>
 <img src='./assets/01.jpeg' alt='screenshot01' width='20%'/>
 <img src='./assets/02.jpeg' alt='screenshot02'  width='20%'/>
 <img src='./assets/03.jpeg' alt='screenshot02'  width='20%'/>
 <img src='./assets/04.jpeg' alt='screenshot02'  width='20%'/>
+</div>
