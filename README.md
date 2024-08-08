@@ -9,6 +9,14 @@ This project is a simple mobile application developed with React Native and Type
 - Mark task as complete.
 - Shows an alert when you already have a registered task.
 
+## Concepts studied
+
+- States
+- State immutability
+- Lists and keys in React Native
+- Properties
+- Componentization
+
 ## Technologies Used
 
 - React Native
